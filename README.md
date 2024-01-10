@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming mainly software development.
 - 🌱 I’m currently learning reactjs.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me :- yugeshbhattarai18@gmail.com
+- 📫 How to reach me :- yugeshbhattarai2004@gmail.com
 
 <!---
 madmax-10/madmax-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
